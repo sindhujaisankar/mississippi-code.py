@@ -1,5 +1,3 @@
-# mississippi-code.py
-#prints letter in a string and its frequency
 str1=input("enter the string: ")
 d1=dict()
 for i in str1:
